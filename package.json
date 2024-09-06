@@ -16,7 +16,7 @@
     "prepublish": "tsc"
   },
   "devDependencies": {
-    "ts-node": "^4.1.0",
+    "ts-node": "^8.0.0",
     "typescript": "~3.7.5"
   }
 }
